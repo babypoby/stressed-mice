@@ -1,3 +1,5 @@
 data_binning_normalization
 data_added_strands
 .ipynb_checkpoints
+data_normalized
+data_dim_reduction
