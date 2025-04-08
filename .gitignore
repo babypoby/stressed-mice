@@ -3,3 +3,4 @@ data_added_strands
 .ipynb_checkpoints
 data_normalized
 data_dim_reduction
+data_anova
