@@ -2,7 +2,7 @@
 A bioinformatics pipeline for analyzing guanine oxidation patterns and gene expression relationships.
 
 ## Project Structure
-'''
+```
 .
 ├── .gitignore
 ├── README.md
@@ -220,6 +220,6 @@ A bioinformatics pipeline for analyzing guanine oxidation patterns and gene expr
     ├── sig_intersection.ipynb # Intersecting significant features (genomic bins, cpg islands) with gene bodies and promoters
     ├── xgboost_bin.ipynb # XGBoost for genomic bins
     └── xgboost_rest.ipynb # XGBoost for cpg islands, gene bodies and promoters
-'''
+```
 ## Summary 
 This project analyzes guanine oxidation and gene expression data using statistical methods (ANOVA), correlation analysis, and machine learning approaches (PCA, t-SNE, UMAP, MOFA) efficiently. Results are organized by genomic regions (CpG islands, gene bodies, promoters) and analysis type.
