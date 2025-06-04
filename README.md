@@ -68,8 +68,6 @@ A bioinformatics pipeline for analyzing guanine oxidation patterns and gene expr
 │   │       ├── combined_significance_heatmap_zscore.png
 │   │       ├── combined_significance_heatmap_zscore_clustered.png
 │   │       ├── heatmap_legend.png
-│   │       ├── heatmap_legend_zscore.png
-│   │       ├── heatmap_legend_zscore_clustered.png
 │   │       ├── indiv/                                    # Individual plots for each significant gene
 │   │       │   └── timepoint_top1-4_ENSMUSG*.png       # (4 files)
 │   │       ├── manhattan_plot_interaction.png
