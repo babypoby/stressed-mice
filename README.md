@@ -226,5 +226,3 @@ This project aims to
     └── xgboost_rest.ipynb                               # XGBoost for cpg islands, gene bodies and promoters
 ```
 
-## Summary 
-
