@@ -1,6 +1,10 @@
-# Guanine Oxidation and Gene Expression in Stress and Circadian Disruption Analysis Project
+# Guanine Oxidation and Gene Expression in Stress and Circadian Disruption Analysis
 
-A bioinformatics pipeline for analyzing guanine oxidation patterns and gene expression relationships.
+A bioinformatics pipeline for analyzing guanine oxidation and gene expression data using statistical methods (ANOVA), correlation analysis, and machine learning approaches (PCA, t-SNE, UMAP, MOFA) efficiently. Results are organized by genomic regions (CpG islands, gene bodies, promoters) and analysis type.
+
+This project aims to
+1. Identify genome-wide changes in guanine oxidation associated with chronic stress level and time of day.
+2. Determine whether guanine oxidation has an epigenetic role in gene expression regulation.
 
 ## Project Structure
 
@@ -224,4 +228,3 @@ A bioinformatics pipeline for analyzing guanine oxidation patterns and gene expr
 
 ## Summary 
 
-This project analyzes guanine oxidation and gene expression data using statistical methods (ANOVA), correlation analysis, and machine learning approaches (PCA, t-SNE, UMAP, MOFA) efficiently. Results are organized by genomic regions (CpG islands, gene bodies, promoters) and analysis type.
