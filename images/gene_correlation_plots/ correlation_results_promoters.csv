@@ -1,0 +1,3 @@
+gene_id,strand,pearson_r,pearson_p,spearman_r,spearman_p,n_points,most_significant_factor,max_f_value
+ENSMUSG00000093761,+,,,,,20,timepoint,61.849741051661184
+ENSMUSG00000030793,+,-0.4597192241693898,0.041415706255419446,-0.2249413245783208,0.34034129184326567,20,timepoint,56.444092547936336
