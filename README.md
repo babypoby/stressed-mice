@@ -1,6 +1,6 @@
-# Guanine Oxidation and Gene Expression in Stress and Circadian Disruption Analysis
+# The Influence of Chronic Stress and Day Time on Genome-wide Guanine Oxidation
 
-A bioinformatics pipeline for analyzing guanine oxidation and gene expression data using statistical methods (ANOVA), correlation analysis, and machine learning approaches (PCA, t-SNE, UMAP, MOFA) efficiently. Results are organized by genomic regions (CpG islands, gene bodies, promoters) and analysis type.
+A bioinformatics pipeline for analyzing the influence of chronic stress and day time on genome-wide guanine oxidation and gene expression data using statistical methods (ANOVA), correlation analysis, and machine learning approaches (PCA, t-SNE, UMAP, MOFA) efficiently. Results are organized by genomic regions (CpG islands, gene bodies, promoters) and analysis type.
 
 This project aims to
 1. Identify genome-wide changes in guanine oxidation associated with chronic stress level and time of day.
